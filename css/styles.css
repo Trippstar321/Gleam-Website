@@ -32,8 +32,24 @@ header {
     height: 190px;
 }
 
+.header-content {
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    gap: 2px;
+    padding-top: 20px;
+}
+.company-name-left,
+.company-name-right {
+    font-family: 'Francois One', sans-serif;
+    font-size: 3em;
+    color: #000;
+}
+
 header img {
-    margin: 0 auto;
+	margin: 0 auto;
+    height: 170px;
+    width: auto;
 }
 
 /* Style rules for navigation area */
