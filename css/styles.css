@@ -13,7 +13,7 @@ body, header, nav, main, footer, h1, div, img, ul {
 
 /* Style rules for body and images */
 body {
-	background-color: #000;
+	background-color: #521329;
 }
 
 img {
@@ -112,7 +112,7 @@ main {
 .pricing-column h2 {
     font-size: 1.5em;
     margin-bottom: 1em;
-    color: #666600;
+    color: #fd5990;
 }
 
 .pricing-column ul {
@@ -178,7 +178,7 @@ main {
 
 .action {
     font-size: 1.35em;
-    color: #666600;
+    color: #fd5990;
     font-weight: bold;
 }
 
@@ -201,7 +201,7 @@ main {
 }
 
 #contact .contact-email-link {
-    color: #666600;
+    color: #fd5990;
     text-decoration: none;
 }
 
